@@ -1,4 +1,4 @@
-# Buku Tamu
+# Buku Tamu <sup>Syahrul Ady Pratama | XI RPL B</sup>
 Aplikasi Buku Tamu adalah sebuah platform interaktif yang memungkinkan pengguna untuk menegirimkan pesan di situs web tertentu. Dibandingkan dengan buku tamu tradisional yang berbentuk buku fisik, aplikasi ini memanfaatkan teknologi web untuk menciptakan pengalaman yang lebih modern dan praktis.
 
 Dengan menggunakan Aplikasi Buku Tamu , pengguna dapat dengan mudah mengisi formulir atau kotak teks yang disediakan di halaman web. Mereka dapat meninggalkan nama mereka, alamat email, dan pesan atau komentar yang ingin mereka sampaikan kepada pemilik situs.
@@ -25,3 +25,4 @@ Pengumpulan data: Aplikasi ini dapat mengumpulkan data pengguna, seperti nama da
   - email = admin@gmail.com, admin123.
   - Mengelola petugas.
   - Melihat log/histori web.
+<br>
