@@ -10,6 +10,18 @@ Interaksi yang mudah: Pengguna dapat meninggalkan pesan  dengan mudah tanpa haru
 Pengumpulan data: Aplikasi ini dapat mengumpulkan data pengguna, seperti nama dan alamat email, yang dapat berguna untuk keperluan komunikasi.
 
 # Cara menggunakan Aplikasi Buku Tamu
-1. Masuk ke halaman bukutamu.syahrulapra.my.id
-2. Isi Form yang tersedia
-3. Ungah gambar dengan cara yang sudah di sediakan
+<h4> 1. Sebagai Tamu </h4>
+  - Masuk ke halaman bukutamu.syahrulapra.my.id.
+  - Isi Form yang tersedia.
+  - Ungah gambar dengan cara yang sudah di sediakan.
+
+<h4> 2. Sebagai Petugas </h4>
+  - Login ke halaman petugas.
+  - Isi menggunakan email dan password yang diberikan admin. Contoh (syahrulap27@gmail.com, admin123).
+  - Menerima tamu.
+
+<h4> 3. Sebagai Admin </h4>
+  - Login ke halaman admin.
+  - email = admin@gmail.com, admin123.
+  - Mengelola petugas.
+  - Melihat log/histori web.
